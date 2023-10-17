@@ -1,0 +1,65 @@
+ház;Aerocool ACCS-PB18013.11 Aero One mini Fekete edzett üveg számítógépház Számítógépház Mini és Micro;19489;2021
+ház;Aerocool ACCS-PB18013.21 Aero One mini Fehér Edzett üveg Számítógépház Számítógépház Mini és Micro;20390;2021
+ház;Aerocool ACCS-PC04014.11 CS-101 számítógép ház Számítógépház Mini és Micro;11590;2021
+ház;Aerocool ACCS-PV12013.21 Cylon Mini TG RGB fehér számítógépház Számítógépház Mini és Micro;11490;2021
+ház;Aerocool ACCS-PV20013.11 Bolt Mini TG RGB számítógépház Számítógépház Mini és Micro;16490;2021
+ház;AeroCool Aero One mini frost fekete számítógépház (ACCS-PB18043.11) Számítógépház Mini és Micro;23691;2021
+ház;BitFenix BFC-SBR-300-KKGSK-RP Saber TG Számítógépház Számítógépház táp nélkül;27189;2021
+ház;BitFenix Enso RGB BFC-ENS-150-WWWGK-RP fehér számítógépház Számítógépház táp nélkül;20890;2021
+ház;BitFenix Nova BFX-NOV-100-WWWKK-RP fehér ablakos számítógép ház Számítógépház táp nélkül;7590;2021
+tápegység;ADATA XPG Core Reactor 850W ATX tápegység (COREREACTOR850G-BKCEU) Minőségi Tápegység;49590;2021
+tápegység;ADATA XPG Pylon 650W ATX tápegység (PYLON650B-BKCEU) Minőségi Tápegység;24790;2021
+tápegység;ADATA XPG Pylon 750W 80+ Bronze tápegység (PYLON750B-BKCEU) Minőségi Tápegység;27589;2021
+tápegység;Aerocool 500W Cylon RGB tápegység Minőségi Tápegység;15790;2021
+tápegység;Aerocool 600W Cylon RGB ACPW-CE60AEC11 tápegység Minőségi Tápegység;17690;2021
+tápegység;Aerocool ACPB-AR50AEC.11 AERO 500W tápegység Minőségi Tápegység;15591;2021
+tápegység;Chieftronic GPU-750FC 750W Tápegység Minőségi Tápegység;43490;2021
+tápegység;Cooler Master 400W Elite V3 MPW-4001-ACABN1-EU tápegység Minőségi Tápegység;14290;2021
+tápegység;Cooler Master 500W Elite V3 MPW-5001-ACABN1-EU tápegység Minőségi Tápegység;14690;2021
+tápegység;Cooler Master 550W MPX-5501-ACAAB-KE MWE tápegység Minőségi Tápegység;16190;2021
+tápegység;Cooler Master 550W MWE Bronze V2 MPE-5501-ACAAB-EU tápegység Minőségi Tápegység;15591;2021
+tápegység;Cooler Master 550W MWE Gold MPY-5501-ACAAG-EU tápegység Minőségi Tápegység;23390;2021
+processzor;AMD AM3+ FX-4350 X4 4.2GHz 192Kb L1 4MB L2 8MB L3 Cache OEM processzor (FD4350FRW4KHK) AMD AM3 processzor;11490;2021
+processzor;AMD Athlon 3000G 3.5GHz processzor (YD3000C6FHBOX) AMD AM4 processzor;43090;2021
+processzor;AMD Athlon 300GE OEM processzor (YD30GEC6M2OFH) AMD AM4 processzor;28090;2021
+processzor;AMD Ryzen 3 1200 YD1200BBM4KAF OEM processzor AMD AM4 processzor;32490;2021
+processzor;AMD Ryzen 3 Pro 2100GE OEM processzor (YD210BC6M2OFB) AMD AM4 processzor;28790;2021
+processzor;AMD Ryzen 5 1600 processzor (YD1600BBAEBOX) AMD AM4 processzor;59690;2021
+processzor;AMD Ryzen 5 1600 processzor (YD1600BBAFBOX) AMD AM4 processzor;60289;2021
+processzor;AMD Ryzen 5 3600 OEM processzor (100 000000031) AMD AM4 processzor;87790;2021
+processzor;AMD Ryzen 5 3600 processzor (100 100000031 BOX) AMD AM4 processzor;113890;2021
+processzor;Intel Core i5-9600K BX80684I59600K processzor Intel 1151 v2 processzor;64590;2021
+processzor;Intel Core i7-9700F BX80684I79700F proccesszor Intel 1151 v2 processzor;108190;2021
+processzor;Intel Core i7-9700K BX80684I79700K processzor Intel 1151 v2 processzor;107290;2021
+processzor;Intel Core i7-9700KF BX80684I79700KF processzor Intel 1151 v2 processzor;103490;2021
+processzor;Intel Core i3 10100F OEM processzor (CM8070104291318) Intel 1200 processzor;39390;2021
+processzor;Intel Core i3-10100 OEM processzor (CM8070104291317) Intel 1200 processzor;51890;2021
+processzor;Intel Core i3-10100 processzor (BX8070110100) Intel 1200 processzor;46391;2021
+processzor;Intel Core i3-10100F 3.6GHz BX8070110100F processzor Intel 1200 processzor;31391;2021
+alaplap;Asus M5A78L-M LX3 alaplap AMD AM3 alaplap;20190;2021
+alaplap;ASRock A320M-HDV R4.0 alaplap AMD AM4 alaplap;18090;2021
+alaplap;Asrock A520M PHANTOM GAMING 4 alaplap (90-MXBEK0-A0UAYZ) AMD AM4 alaplap;26290;2021
+alaplap;ASRock A520M-HDV alaplap AMD AM4 alaplap;14190;2021
+alaplap;ASRock A520M-ITX/ac alaplap AMD AM4 alaplap;35590;2021
+alaplap;Asrock B450M HDV R4.0 alaplap AMD AM4 alaplap;20690;2021
+alaplap;Asrock B450M Pro4 R2.0 alaplap AMD AM4 alaplap;27790;2021
+alaplap;Asrock B450M PRO4-F alaplap AMD AM4 alaplap;22189;2021
+alaplap;Asrock B450M STEEL LEGEND alaplap AMD AM4 alaplap;30090;2021
+alaplap;ASRock B550 Extreme4 alaplap AMD AM4 alaplap;72191;2021
+alaplap;Asrock B550 PG Velocita alaplap AMD AM4 alaplap;86190;2021
+alaplap;ASRock B550 Phantom Gaming 4 alaplap AMD AM4 alaplap;35890;2021
+alaplap;ASUS PRIME Z590-A alaplap Intel 1200 alaplap;84290;2021
+alaplap;ASUS PRO B560M-C/CSM mATX alaplap Intel 1200 alaplap;38890;2021
+alaplap;ASUS PRO Q570M-C/CSM alaplap Intel 1200 alaplap;64690;2021
+alaplap;Asus ROG MAXIMUS XII EXTREME alaplap Intel 1200 alaplap;381690;2021
+ssd;ADATA 120GB ASU650SS-120GT-R SSD meghajtó SSD 2,5";8090;2021
+ssd;ADATA 240GB SSD meghajtó (ASU630SS-240GQ-R) SSD 2,5";11690;2021
+ssd;Adata 256GB Ultimate SU800 ASU800SS-256GT-C SSD meghajtó SSD 2,5";15390;2021
+ssd;ADATA 480GB ASU630SS-480GQ-R SSD meghajtó SSD 2,5";19089;2021
+ssd;Adata 512GB Ultimate SU800 ASU800SS-512GT-C SSD meghajtó SSD 2,5";25090;2021
+ssd;ADATA 960GB SATA3 (ASU650SS-960GT-R) SSD SSD 2,5";36190;2021
+ssd;ADATA SU750 256GB ASU750SS-256GT-C SSD meghajtó SSD 2,5";12990;2021
+ssd;ADATA SU750 512GB ASU750SS-512GT-C SSD meghajtó SSD 2,5";21490;2021
+ssd;Apacer 120GB AS340 Panther AP120GAS340G-1 SSD meghajtó SSD 2,5";8590;2021
+ssd;Apacer 128GB AS350 Panther 95.DB260.P100C SSD meghajtó SSD 2,5";8590;2021
+ssd;Apacer 1TB AS350 Panther 95.DB2G0.P100C SSD meghajtó SSD 2,5";37690;2021
